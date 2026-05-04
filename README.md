@@ -10,11 +10,11 @@ Para a tabela mãe:
   - Número de porta não pode ser negativo
   - CEP deve ter 8 dígitos
   - Telefone deve ter 10 dígitos
-  - 
+    
 Para a tabela medico:
   - Celular deve ter 11 dígitos
   - Celular não pode repetir
-  - 
+    
 Para a tabela bebe:
   - O ID é auto incremental, iniciando em 1 e indo de 1 em 1
   - Se não preenchida, a data de nascimento é o dia de hoje
