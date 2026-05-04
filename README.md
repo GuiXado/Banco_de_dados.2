@@ -3,6 +3,7 @@
 
 ### 2. Criar, em SQL Server, considerando o domínio de uma Maternidade, conforme modelado:
 <img width="741" height="491" alt="image" src="https://github.com/user-attachments/assets/a081a102-9e03-48eb-bfff-c3efc93361c7" />
+
 Foram delimitadas as seguintes restrições:
 Para a tabela mãe:
   - O ID é auto incremental, iniciando em 1001 e indo de 1 em 1
