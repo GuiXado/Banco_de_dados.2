@@ -5,18 +5,20 @@
 <img width="741" height="491" alt="image" src="https://github.com/user-attachments/assets/a081a102-9e03-48eb-bfff-c3efc93361c7" />
 Foram delimitadas as seguintes restrições:
 Para a tabela mãe:
-- O ID é auto incremental, iniciando em 1001 e indo de 1 em 1
-- Número de porta não pode ser negativo
-- CEP deve ter 8 dígitos
-- Telefone deve ter 10 dígitos
+  - O ID é auto incremental, iniciando em 1001 e indo de 1 em 1
+  - Número de porta não pode ser negativo
+  - CEP deve ter 8 dígitos
+  - Telefone deve ter 10 dígitos
+  - 
 Para a tabela medico:
-- Celular deve ter 11 dígitos
-- Celular não pode repetir
+  - Celular deve ter 11 dígitos
+  - Celular não pode repetir
+  - 
 Para a tabela bebe:
-- O ID é auto incremental, iniciando em 1 e indo de 1 em 1
-- Se não preenchida, a data de nascimento é o dia de hoje
-- Altura não pode ser negativa
-- Peso não pode ser negativo
+  - O ID é auto incremental, iniciando em 1 e indo de 1 em 1
+  - Se não preenchida, a data de nascimento é o dia de hoje
+  - Altura não pode ser negativa
+  - Peso não pode ser negativo
 
 ### 1. Criar, em SQL Server, considerando o domínio de uma mecânica, conforme modelado:
 <img width="1157" height="563" alt="image" src="https://github.com/user-attachments/assets/a704f743-2374-4345-94fd-4c8b082f0467" />
